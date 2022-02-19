@@ -1,0 +1,3 @@
+[submodule "livro-casadocodigo-web-real-time-nodejs"]
+	path = livro-casadocodigo-web-real-time-nodejs
+	url = https://github.com/rsferreirawork/livro-casadocodigo-web-real-time-nodejs.git
